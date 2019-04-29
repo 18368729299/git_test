@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 test commit
 working
 2
+3
